@@ -1,14 +1,9 @@
 # 👋 Привет! 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=BA55D3&lines=Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
+[//]: # ([![Typing SVG]&#40;https://readme-typing-svg.herokuapp.com?color=BA55D3&lines=Welcome+to+my+GitHub+profile!&#41;]&#40;https://git.io/typing-svg&#41;)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sglossu&theme=dracula)
 
-## 📊 Статистика
-
-[//]: # ([![GitHub Streak]&#40;https://github-readme-streak-stats.herokuapp.com/?user=Sglossu&theme=radical&#41;]&#40;https://git.io/streak-stats&#41;)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sglossu&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🚀 Основные проекты
 
@@ -26,6 +21,12 @@
   </span>
 </h3>
 
+<div align="center">
+
+[//]: # ([![GitHub Streak]&#40;https://github-readme-streak-stats.herokuapp.com/?user=Sglossu&theme=radical&#41;]&#40;https://git.io/streak-stats&#41;)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sglossu&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 ## 💌 Контакты
 
