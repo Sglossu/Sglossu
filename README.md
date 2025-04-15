@@ -1,11 +1,11 @@
-# 👋 Привет! 
+# 👋 Hi! 
 
 [//]: # ([![Typing SVG]&#40;https://readme-typing-svg.herokuapp.com?color=BA55D3&lines=Welcome+to+my+GitHub+profile!&#41;]&#40;https://git.io/typing-svg&#41;)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sglossu&theme=dracula)
 
 
-## 🚀 Основные проекты
+## 🚀 Main projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sglossu&repo=TelegramBot&theme=buefy)](https://github.com/Sglossu/TelegramBot)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sglossu&repo=irc_server&theme=buefy)](https://github.com/Sglossu/irc_server)
@@ -17,7 +17,7 @@
 
 <h3 align="center">
   <span style="font-family: 'Comic Sans MS', cursive; font-size: 1.3em; color: #ba55d3;">
-    ✨ Все проекты сделаны с <span style="color: #ff00f7;">💜</span> ✨
+    ✨ All projects made with <span style="color: #ff00f7;">💜</span> ✨
   </span>
 </h3>
 
@@ -28,7 +28,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sglossu&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
-## 💌 Контакты
+## 💌 Contacts
 
 🔹 **Telegram**: [@sglossu](https://t.me/sglossu)
 
